@@ -24,9 +24,9 @@
 
 To understand the Working of the Raspberry Pi, let us Build an Atomic Project on Controlling the Servo Motor with Raspberry Pi as Shown Below:
 
-1. **Step 1:** Take the SD Card in Pendrive and connect it to CPU.
+**Step 1:** Take the SD Card in Pendrive and connect it to CPU.
    
-2. **Step 2:** Open Raspberry Pi Imager and perform the following selections:
+**Step 2:** Open Raspberry Pi Imager and perform the following selections:
    - Select "RASPBERRY PI 4" in Raspberry Pi Device.
    - Select "RASPBERRY PI OS (32-BIT)" in Operating System.
    - Select your injected pendrive in Storage.
@@ -37,4 +37,4 @@ To understand the Working of the Raspberry Pi, let us Build an Atomic Project on
      - Go to Options and check "Eject Media when finished" and "Enable telemetry".
      - Click on Save and then click on Write. Wait until it writes and verifies.
    
-3. **Step 3:** Open VS Code and create a file with the extension of `.py` and save the file.
+**Step 3:** Open VS Code and create a file with the extension of `.py` and save the file.
