@@ -30,7 +30,7 @@ To understand the Working of the Raspberry Pi, let us Build an Atomic Project on
    - Select "RASPBERRY PI 4" in Raspberry Pi Device.
    - Select "RASPBERRY PI OS (32-BIT)" in Operating System.
    - Select your injected pendrive in Storage.
-   - Press "Shift+Ctrl+X" on your keyboard and do the following steps:
+   - Press `Shift` + `Ctrl` + `X` on your keyboard and do the following steps:
      - Change the hostname if you want; otherwise, keep it intact.
      - Set username and password.
      - Go to services and enable SSH and tick "Use password Authentication".
