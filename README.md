@@ -20,6 +20,9 @@
 4. **VS Code:** Integrated development environment used to write the code, which is then transferred via MobaXterm to Raspberry Pi.  
    Download Link: [VS Code](https://code.visualstudio.com/download)
 
+5. **Rasp Controller:** It is used to See the IP Address of the Wifi Supplying Device (Andriod or IOS)
+   Download Link: [Rasp Controller]()
+
 ## Getting Started with Raspberry Pi
 
 To understand the Working of the Raspberry Pi, let us Build an Atomic Project on Controlling the Servo Motor with Raspberry Pi as Shown Below:
@@ -32,7 +35,7 @@ To understand the Working of the Raspberry Pi, let us Build an Atomic Project on
    - Select your injected pendrive in Storage.
    - Press `Shift` + `Ctrl` + `X` on your keyboard and do the following steps:
      - Change the hostname if you want; otherwise, keep it intact.
-     - Set username and password.
+     - Set username and password Remember donot give College Wifi as it has username Hurdle give your mobile hotspot wifi Make sure the laptop/Desktop and raspberry Pi are connected to the same Wifi.
      - Go to services and enable SSH and tick "Use password Authentication".
      - Go to Options and check "Eject Media when finished" and "Enable telemetry".
      - Click on Save and then click on Write. Wait until it writes and verifies.
